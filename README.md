@@ -1,0 +1,1 @@
+Built Vision Transformer model from scratch and then trained it on MNIST Digits Dataset
