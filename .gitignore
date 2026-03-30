@@ -8,5 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-dataset
+dataset_mnist
+dataset_cifar
 weights
