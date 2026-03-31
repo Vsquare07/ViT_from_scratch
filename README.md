@@ -1,1 +1,1 @@
-Built Vision Transformer model from scratch and then trained it on CIFAR10 Dataset
+Built Vision Transformer model from scratch and then trained it on STL10 Dataset

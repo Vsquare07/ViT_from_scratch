@@ -10,4 +10,5 @@ wheels/
 .venv
 dataset_mnist
 dataset_cifar
+dataset_stl
 weights
